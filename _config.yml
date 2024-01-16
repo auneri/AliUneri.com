@@ -1,6 +1,6 @@
 plugins:
   - jekyll-remote-theme
-remote_theme: jekyll/minima
+remote_theme: jekyll/minima@10124515953527c8990a2de99ae4ddb2a81ffee3
 minima:
   skin: dark
   social_links:
