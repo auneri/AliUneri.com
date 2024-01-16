@@ -1,6 +1,1 @@
-plugins:
-  - jekyll-remote-theme
-remote_theme: jekyll/minima@10124515953527c8990a2de99ae4ddb2a81ffee3
-minima:
-  social_links:
-    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=PhPUscEAAAAJ" }
+theme: minima
