@@ -1,3 +1,5 @@
 theme: minima
 minima:
   skin: dark
+  social_links:
+    - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=PhPUscEAAAAJ" }
